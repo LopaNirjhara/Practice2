@@ -1,0 +1,9 @@
+$ git clone https://github.com/mahfuj22/Car-Showroom.git
+$ cd foldername
+$ mkdir newfoldername
+$ cd newfolderName
+$ touch newfileName with extension
+$ git add -A
+$ git commit -m "Git important command"
+$ git remote add origin https://github.com/LopaNirjhara/Practice2.git
+$ git push -u origin main
